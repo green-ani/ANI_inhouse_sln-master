@@ -1,0 +1,17 @@
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\ANI_iot_console.exe.config
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\ANI_iot_console.exe
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\ANI_iot_console.pdb
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\ani_inhse_dll.dll
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\RestSharp.dll
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\MySql.Data.dll
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\Renci.SshNet.dll
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\ani_inhse_dll.pdb
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\ani_inhse_dll.dll.config
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\RestSharp.xml
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\obj\Debug\ANI_iot_console.csprojAssemblyReference.cache
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\obj\Debug\ANI_iot_console.csproj.CoreCompileInputs.cache
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\obj\Debug\ANI_iot_console.csproj.CopyComplete
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\obj\Debug\ANI_iot_console.exe
+C:\Users\ani06\Documents\ANI-Green\ANI_inhouse_sln-master\ANI_iot_console\obj\Debug\ANI_iot_console.pdb
