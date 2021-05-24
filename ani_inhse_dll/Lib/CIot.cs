@@ -49,6 +49,21 @@ namespace ani_inhse.Lib
             Console.WriteLine("Forwardlivingdemo end");
         }
 
+        public void execute_forwardliving()
+        {
+            iot_dll = new IotDll();
+            appSettingStr = AppSetting.forwardlivingConn;
+            string login_str_kitsense = "username=forwardliving&password=21550860";
+            string login_str_kuju = "{\"username\":\"futeielderlyhome\",\"password\":\"e10adc3949ba59abbe56e057f20f883e\", \"type\":\"token\"}";
+            string home_name_kitsense = "Forward Living (Culture Homes)";
+
+            Console.WriteLine("Forwardliving start");
+            get_iot_kitsense(login_str_kitsense, home_name_kitsense);
+            get_iot_kuju(login_str_kuju);
+            get_iot_woofaa();
+            Console.WriteLine("Forwardliving end");
+        }
+
         private void get_iot_kitsense(string login_str, string home_name)
         {
             var client = new RestClient(kitsense_url);

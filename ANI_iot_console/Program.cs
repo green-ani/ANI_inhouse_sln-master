@@ -17,7 +17,12 @@ namespace ANI_iot_console
             {
                 //ciot.execute_anideveloper2();
                 ciot.execute_forwardlivingdemo();
+                //ciot.execute_forwardliving();
 
+            }
+            catch (System.IO.IOException e)
+            {
+                Console.WriteLine("Error reading Message = {0}", e.Message);
             }
             finally
             {
